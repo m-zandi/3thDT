@@ -843,11 +843,11 @@ html{
 }
 
   /* visability  part */
-  .lang,.footerLang{
-    /* visibility: hidden;
+  /* .lang,.footerLang{
+    visibility: hidden;
     opacity: 0;
-    display: none; */
-  }
+    display: none;
+  } */
   .dividerLang{
         opacity: 0;
     
