@@ -50,7 +50,7 @@
     display: flex;
     align-items: flex-start;
     /* padding-right:2vw; */
-    /* transform: translate(60%, 0%); */
+    transform: translateY(-10px);
     /* padding-top: -17px; */
     /* margin-top:-13px; */
     /* margin-bottom: 19px; */
@@ -1468,8 +1468,8 @@ width: 3.8vw;
 
    /* --- hero ---- */
    .bgImageToAllHero{
-    background-position: 88% 33vh !important;
-    background-size: 167% !important;
+    background-position: 91% 23 !important;
+    background-size: 165% !important;
    }
    .welcome {
     margin-top: 2%;

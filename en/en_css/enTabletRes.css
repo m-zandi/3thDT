@@ -836,7 +836,7 @@ body {
     /* hero */
     .bgImageToAllHero{
         height: 96vh!important;
-        background-position: -67vw 33.5vh!important;
+        background-position: -67vw -6.5vh!important;
         background-size: 173%!important;
 
     }
