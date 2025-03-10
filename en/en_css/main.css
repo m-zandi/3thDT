@@ -844,9 +844,9 @@ html{
 
   /* visability  part */
   .lang,.footerLang{
-    visibility: hidden;
+    /* visibility: hidden;
     opacity: 0;
-    display: none;
+    display: none; */
   }
   .dividerLang{
         opacity: 0;
